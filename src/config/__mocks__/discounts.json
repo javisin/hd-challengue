@@ -1,0 +1,13 @@
+{
+  "twoForOne": {
+    "itemIds": [4]
+  },
+  "minimumSpend": {
+    "minimumAmount": 4000,
+    "discountAmount": 800
+  },
+  "pack": {
+    "itemIds": [4, 21, 3],
+    "fixedPrice": 2000
+  }
+}
