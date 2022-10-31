@@ -6,7 +6,7 @@ import {
   getOrderWithoutPacks,
   getPacksQuantity,
   getPacksTotalAmount,
-} from './OrderDiscountHandler';
+} from './OrderDiscountsHelper';
 
 export default class OrderHandler {
   #order: OrderItem[] = [];
